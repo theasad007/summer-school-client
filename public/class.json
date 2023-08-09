@@ -1,0 +1,51 @@
+[
+    {
+      "image": "https://i.ibb.co/26Dnqjw/spanish-beginner.jpg",
+      "name": "Spanish Beginner Level",
+      "instructor": "Juan Martinez",
+      "available_seats": 20,
+      "price": 180,
+      "student": 0
+    },
+    {
+      "image": "https://i.ibb.co/19Lq7rH/french-advanced.jpg",
+      "name": "French Advanced Level",
+      "instructor": "Marie Dupont",
+      "available_seats": 20,
+      "price": 220,
+      "student": 0
+    },
+    {
+      "image": "https://i.ibb.co/pXQZRD7/german-conversational.jpg",
+      "name": "German Conversational Level",
+      "instructor": "Klaus Schmidt",
+      "available_seats": 0,
+      "price": 190,
+      "student": 0
+    },
+    {
+      "image": "https://i.ibb.co/DfsSWC7/italian-beginner.jpg",
+      "name": "Italian Beginner Level",
+      "instructor": "Giuseppe Rossi",
+      "available_seats": 15,
+      "price": 180,
+      "student": 0
+    },
+    {
+      "image": "https://i.ibb.co/d7FKMvn/chinese-intermediate.jpg",
+      "name": "Chinese Intermediate Level",
+      "instructor": "Li Wei",
+      "available_seats": 0,
+      "price": 220,
+      "student": 0
+    },
+    {
+      "image": "https://i.ibb.co/Mh6RfrR/japanese-for-children.jpg",
+      "name": "Japanese For Children",
+      "instructor": "Sakura Tanaka",
+      "available_seats": 20,
+      "price": 200,
+      "student": 0
+    }
+  ]
+  

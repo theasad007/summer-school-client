@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+#root {
+    font-family: 'Poppins', sans-serif;
+}
+
+.swal2-title {
+    font-size: 20px;
+}
+.drawer ul li {
+    margin: 5px 0;
+}
+.drawer li:has(a.active) {
+    border-bottom: 0;
+}
